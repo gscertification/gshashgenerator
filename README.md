@@ -3,7 +3,7 @@ GS Hash Generator는 TTA의 GS인증에서 사용할 목적으로 개발된 프�
 
 ## 2. 프로그램 구동 환경
  - 지원 운영체제 : Microsoft Windows 10 (64bit) 
- - 권장 메모리: 8GB 이상
+ - 권장 메모리 : 8GB 이상
 
 ## 3. GS Hash Generater 설치하기 
 
