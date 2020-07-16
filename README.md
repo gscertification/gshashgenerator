@@ -6,7 +6,6 @@ GS Hash Generator는 디렉토리내에 있는 파일의 해시 값을 일괄적
 ## 2. 프로그램 구동 환경
  - 지원 운영체제 : `Microsoft Windows 10 (64bit)` 
  - 권장 메모리 : `8GB 이상` 
-  * 4GB 메모리 환경도 가능하지만 파일의 크기가 4GB를 넘을경우 메모리 부족 등의 오류가 발생할 수 있습니다. 
 
 ## 3. GS Hash Generater 설치하기 
 
