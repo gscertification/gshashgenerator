@@ -1,9 +1,10 @@
 ## 1. GS Hash Generater
-GS Hash Generator는 TTA의 GS인증에서 사용할 목적으로 개발된 프로그램입니다. 
+GS Hash Generator는 특정 폴더내에 있는 파일의 해시 값을 일괄적으로 추출하는 프로그램입니다.
+해시 알고리즘은 SHA-256을 사용합니다. 
 
 ## 2. 프로그램 구동 환경
  - 지원 운영체제 : `Microsoft Windows 10 (64bit)` 
- - 권장 메모리 : `8GB 이상`
+ - 권장 메모리 : `8GB 이상` 
 
 ## 3. GS Hash Generater 설치하기 
 
@@ -46,7 +47,7 @@ Hash 대상 파일은 아래와 같습니다.
 ### 5.2. GS Hash Generator 실행
 GS Hash Generater 수행 시, 소스코드 및 실행 프로그램 디렉토리의 상위 디렉토리를 지정하여 Hash 파일을 생성합니다.  
 
-예) 해시 대상 디렉토리 선택 예 
+예) Hash 대상 디렉토리 선택 예 
 ```
 추가하기
 ```
