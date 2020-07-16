@@ -16,11 +16,13 @@ GS Hash Generater는 파이썬 기반으로 Python을 설치해야 합니다.
 * 권장 파이썬 설치 버전 : Python 3.7.0 (64bit) 이상
    * 파이썬 32bit 환경은 지원하지 않습니다. 
     
-### 3.2. GS Hash Generater 다운로드
-'Code' 버튼 클릭 > 'Download ZIP' 버튼을 클릭하여 프로그램을 다운로드 받습니다.
+### 3.2. GS Hash Generater 다운로드 
+1. GitHub(https://github.com/gscertification/gshashgenerator/)에 접속합니다. 
+2. 'Code' 버튼 클릭
+3. 'Download ZIP' 버튼을 클릭하여 프로그램을 다운로드 받습니다.
 
 ### 3.3. GS Hash Generater 설치
-다운로드 받은 파일의 압축을 풀면 설치가 완료 됩니다. 
+다운로드 받은 파일의 압축을 풀면 설치가 완료됩니다. 
 
 ## 4. GS Hash Generater 실행하기
 
