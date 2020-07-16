@@ -1,6 +1,7 @@
 ## 1. GS Hash Generater
-GS Hash Generator는 특정 폴더내에 있는 파일의 해시 값을 일괄적으로 추출하는 프로그램입니다.    
-해시 알고리즘은 SHA-256을 사용합니다. 
+GS Hash Generator는 디렉토리내에 있는 파일의 해시 값을 일괄적으로 추출하는 프로그램입니다.    
+
+사용하는 해시 알고리즘은 SHA-256 입니다.  
 
 ## 2. 프로그램 구동 환경
  - 지원 운영체제 : `Microsoft Windows 10 (64bit)` 
