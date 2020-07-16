@@ -26,7 +26,7 @@ GS Hash Generater는 파이썬 기반으로 Python을 설치해야 합니다.
 다운로드 받은 파일의 압축을 풀면 설치가 완료됩니다. 
 
 ## 4. GS Hash Generater 실행하기
-`gshashgenerator.bat` 파일을 실행합니다. 
+gshashgenerator 디렉토리로 이동하여 `gshashgenerator.bat` 파일을 실행합니다. 
 
 ## 5. GS인증 산출물에 대한 Hash 추출 가이드
 
