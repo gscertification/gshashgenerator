@@ -8,16 +8,16 @@ GS Hash Generator는 TTA의 GS인증에서 사용할 목적으로 개발된 프�
 ## 3. GS Hash Generater 설치하기 
 
 ### 3.1. Python 설치
-`GS Hash Generater`는 파이썬 기반으로 Python을 설치해야 합니다.  
+GS Hash Generater는 파이썬 기반으로 Python을 설치해야 합니다.  
 
 * Python 웹 사이트 주소 : https://www.python.org/
-* 권장 파이썬 설치 버전 : Python 3.7.0 (64bit) 이상
+* 권장 파이썬 설치 버전 : `Python 3.7.0 (64bit) 이상`
    * 파이썬 32bit 환경은 지원하지 않습니다. 
     
 ### 3.2. GS Hash Generater 다운로드 
 1. GitHub 페이지( https://github.com/gscertification/gshashgenerator )로 접속합니다. 
-2. 'Code' 버튼을 클릭합니다. 
-3. 'Download ZIP' 버튼을 클릭하여 프로그램을 다운로드 받습니다.
+2. `Code` 버튼을 클릭합니다. 
+3. `Download ZIP` 버튼을 클릭하여 프로그램을 다운로드 받습니다.
 
 ### 3.3. GS Hash Generater 설치
 다운로드 받은 파일의 압축을 풀면 설치가 완료됩니다. 
@@ -56,7 +56,7 @@ GS Hash Generater 수행 시, 소스코드 및 실행 프로그램 디렉토리�
 ## 6.1. 프로그램을 실행하면 () 오류가 발생합니다.
 
 ## 7. 라이센스 
-GS Hash Generator는 GNU 라이센스를 사용합니다. 
+GS Hash Generator는 `GNU` 라이센스를 사용합니다. 
 
 
 
