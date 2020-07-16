@@ -1,9 +1,7 @@
-# gshashgenerator 
+## 1. GS Hash Generater
 GS Hash Generator는 TTA의 GS인증에서 사용할 목적으로 개발된 프로그램입니다. 
 
 GS Hash Generator는 GNU 라이센스를 사용합니다. 
-
-## 1. GS Hash Generater
 
 ## 2. 프로그램 구동 환경
  - 지원 운영체제 : Microsoft Windows 10 (64bit) 
