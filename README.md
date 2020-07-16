@@ -2,13 +2,13 @@
 GS Hash Generator는 TTA의 GS인증에서 사용할 목적으로 개발된 프로그램입니다. 
 
 ## 2. 프로그램 구동 환경
- - 지원 운영체제 : Microsoft Windows 10 (64bit) 
- - 권장 메모리 : 8GB 이상
+ - 지원 운영체제 : `Microsoft Windows 10 (64bit)` 
+ - 권장 메모리 : `8GB 이상`
 
 ## 3. GS Hash Generater 설치하기 
 
 ### 3.1. Python 설치
-GS Hash Generater는 파이썬 기반으로 Python을 설치해야 합니다.  
+`GS Hash Generater`는 파이썬 기반으로 Python을 설치해야 합니다.  
 
 * Python 웹 사이트 주소 : https://www.python.org/
 * 권장 파이썬 설치 버전 : Python 3.7.0 (64bit) 이상
@@ -24,8 +24,6 @@ GS Hash Generater는 파이썬 기반으로 Python을 설치해야 합니다.
 
 ## 4. GS Hash Generater 실행하기
 `gshashgenerator.bat` 파일을 실행합니다. 
-```
-```
 
 ## 5. GS 인증 Hash 실행 가이드
 
