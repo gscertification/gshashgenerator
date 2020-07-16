@@ -45,5 +45,5 @@ Hash 대상 파일은 아래와 같습니다.
 ```
 
 ### 5.2 GS Hash Generator 실행
-GS Hash Generater 수행 시, 소스코드 및 실행 프로그램의 상위 디렉토리를 지정하여 Hash 파일을 생성합니다.  
- 예) 
+GS Hash Generater 수행 시, 소스코드 및 실행 프로그램 디렉토리의 상위 디렉토리를 지정하여 Hash 파일을 생성합니다.  
+ 예)  
