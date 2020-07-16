@@ -18,7 +18,7 @@ GS Hash Generater는 파이썬 기반으로 Python을 설치해야 합니다.
     
 ### 3.2. GS Hash Generater 다운로드 
 1. GitHub 페이지( https://github.com/gscertification/gshashgenerator )로 접속합니다. 
-2. 'Code' 버튼 클릭
+2. 'Code' 버튼을 클릭합니다. 
 3. 'Download ZIP' 버튼을 클릭하여 프로그램을 다운로드 받습니다.
 
 ### 3.3. GS Hash Generater 설치
